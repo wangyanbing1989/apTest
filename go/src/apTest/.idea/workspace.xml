@@ -10,22 +10,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../apTest/amicoPay.go">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/apTest.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9585">
-              <caret line="639" column="27" selection-start-line="639" selection-start-column="27" selection-end-line="639" selection-end-column="27" />
-              <folding>
-                <element signature="e#56#232#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="390">
+              <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/policy.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../apTest/pay_test.go">
+        <entry file="file://$PROJECT_DIR$/apTest_test.go">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="558">
+            <state relative-caret-position="614">
               <caret line="55" column="64" selection-start-line="55" selection-start-column="64" selection-end-line="55" selection-end-column="64" />
             </state>
           </provider>
@@ -47,6 +53,12 @@
       <find>Insufficient</find>
       <find>password incorrect</find>
     </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
   </component>
   <component name="GOROOT" path="/usr/lib/go-1.10" />
   <component name="IdeDocumentHistory">
@@ -55,13 +67,14 @@
         <option value="$PROJECT_DIR$/amicoPayContract.go" />
         <option value="$PROJECT_DIR$/pay_test.go" />
         <option value="$PROJECT_DIR$/amicoPay.go" />
-        <option value="$PROJECT_DIR$/../apTest/amicoPay.go" />
+        <option value="$PROJECT_DIR$/amicoPay.go" />
+        <option value="$PROJECT_DIR$/policy.yaml" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="849" />
-    <option name="y" value="234" />
+    <option name="x" value="540" />
+    <option name="y" value="358" />
     <option name="width" value="1380" />
     <option name="height" value="905" />
   </component>
@@ -70,7 +83,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="apTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="apTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
     </panes>
   </component>
@@ -190,9 +213,9 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="442" y="108" width="1380" height="905" extended-state="0" />
+    <frame x="67" y="25" width="1853" height="947" extended-state="6" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26426426" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19833796" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -225,20 +248,24 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/amicoPayContract.go" />
-    <entry file="file://$PROJECT_DIR$/../apTest/pay_test.go">
+    <entry file="file://$PROJECT_DIR$/apTest_test.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="558">
+        <state relative-caret-position="614">
           <caret line="55" column="64" selection-start-line="55" selection-start-column="64" selection-end-line="55" selection-end-column="64" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../apTest/amicoPay.go">
+    <entry file="file://$PROJECT_DIR$/apTest.go">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9585">
-          <caret line="639" column="27" selection-start-line="639" selection-start-column="27" selection-end-line="639" selection-end-column="27" />
-          <folding>
-            <element signature="e#56#232#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="390">
+          <caret line="35" column="5" selection-start-line="35" selection-start-column="5" selection-end-line="35" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/policy.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
         </state>
       </provider>
     </entry>
